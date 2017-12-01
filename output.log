@@ -1,0 +1,28 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m5.522 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.890 ms - -[0m
+[0mGET /products [36m304 [0m15.897 ms - -[0m
+[0mGET /shopping.html [36m304 [0m0.731 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.413 ms - -[0m
+[0mGET /products [36m304 [0m3.144 ms - -[0m
+[0mGET / [36m304 [0m0.434 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.388 ms - -[0m
+[0mGET /products [36m304 [0m1.711 ms - -[0m
+(node:27141) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+[0mPOST /products [32m200 [0m38.127 ms - 155[0m
+[0mPOST /products [32m200 [0m7.598 ms - 152[0m
+[0mPOST /products [32m200 [0m2.492 ms - 162[0m
+[0mGET /shopping.html [36m304 [0m0.869 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.532 ms - -[0m
+[0mGET /products [32m200 [0m5.819 ms - 473[0m
+[0mPUT /products/5a217bf6a441ea6a05d47dac/buy [32m200 [0m9.240 ms - 152[0m
+[0mPUT /products/5a217c17a441ea6a05d47dad/buy [32m200 [0m3.363 ms - 162[0m
+[0mGET / [36m304 [0m0.483 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.436 ms - -[0m
+[0mGET /products [32m200 [0m12.006 ms - 473[0m
+[0mGET / [32m200 [0m3.458 ms - 1371[0m
+[0mGET /javascripts/app.js [32m200 [0m1.245 ms - 1767[0m
+[0mGET /products [32m200 [0m2.095 ms - 473[0m
+[0mGET /shopping.html [36m304 [0m0.969 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.083 ms - -[0m
+[0mGET /products [36m304 [0m3.358 ms - -[0m

@@ -22,7 +22,7 @@
 <div class="page-header"> 
   <h1>Current Products</h1>
 </div>
-  <div ng-repeat="product in products | orderBy:['-buys','title']">
+  <div ng-repeat="product in products | orderBy:'title'">
     <span class="glyphicon glyphicon-remove" ng-click="delete(product)"></span>
     {{product.title}} - Price: ${{product.price}} - Ordered: {{product.buys}}
     <img style="width:50px;height=50px;" ng-src="{{product.image}}" />
